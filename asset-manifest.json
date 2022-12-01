@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-bootstrap-firebase/static/css/main.756af292.css",
+    "main.js": "/React-bootstrap-firebase/static/js/main.862ccf70.js",
+    "index.html": "/React-bootstrap-firebase/index.html",
+    "main.756af292.css.map": "/React-bootstrap-firebase/static/css/main.756af292.css.map",
+    "main.862ccf70.js.map": "/React-bootstrap-firebase/static/js/main.862ccf70.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.756af292.css",
+    "static/js/main.862ccf70.js"
+  ]
+}
